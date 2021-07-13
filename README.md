@@ -4,9 +4,9 @@ Focus: Enjoying the variety of Full Stack Development. Experienced with Vue.js, 
 
 Background: Founder of a Booking- and Artist Management Agency and self-employed for over seven years. Profound know-how in Public Relation and Marketing. BA in Audio Production.
 
-- 🔭 I’m currently working on [entdecken.konzerthaus](https://github.com/Konstantin-exe/konzerthaus-project)
+- 🔭 I’m currently working on [Diagnosia web-app](https://web.diagnosia.com/)
 
-- 🌱 I’m currently learning **Python, Wordpress**
+- 🌱 I’m currently learning **Redux, Typescript, Elixir**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Konstantin-exe](https://github.com/Konstantin-exe)
 
