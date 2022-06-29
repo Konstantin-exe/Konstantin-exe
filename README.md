@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Konstantin</h1>
 
-Focus: Enjoying the variety of Full Stack Development. Experienced with Vue.js, React, Next.js, Node.js, PostgreSQL and Wordpress. Also worked with libraries and toolkits like Bootstrap, Emotion and a tiny bit of jQuery.
+Focus: Enjoying the variety of Full Stack Development. Experienced with Vue.js, React, Next.js, Node.js and Elixir. Also worked with libraries and toolkits like Bootstrap, Emotion and a tiny bit of jQuery.
 
 Background: Founder of a Booking- and Artist Management Agency and self-employed for over seven years. Profound know-how in Public Relation and Marketing. BA in Audio Production.
 
