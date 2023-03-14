@@ -4,19 +4,17 @@ Focus: Enjoying the variety of Full Stack Development. Experienced with Vue.js, 
 
 Background: Founder of a Booking- and Artist Management Agency and self-employed for over seven years. Profound know-how in Public Relation and Marketing. BA in Audio Production.
 
-- 🔭 I’m currently working on [Diagnosia web-app](https://web.diagnosia.com/)
+- 🔭 I’m currently working on [Diagnosia Mobile-app](https://web.diagnosia.com/)
 
-- 🌱 I’m currently learning **Redux, Typescript, Elixir**
+- 🌱 I’m currently learning React Native
 
 - 👨‍💻 All of my projects are available at [https://github.com/Konstantin-exe](https://github.com/Konstantin-exe)
 
-- 💬 Ask me about **Vue.js and React**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **konstantinmuellner@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/konstantin-muellner/](https://www.linkedin.com/in/konstantin-muellner/)
-
-- ⚡ Fun fact **I leave an easter egg in all of my work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
